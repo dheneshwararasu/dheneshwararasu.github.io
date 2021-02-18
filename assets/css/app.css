@@ -3075,7 +3075,7 @@ footer .overlay {
 
 .section .offset_banner {
 	position: relative;
-	width: 85%;
+	width: 100%;
 	height: 100vh;
 	-webkit-transform: translateY(-35%);
 	-moz-transform: translateY(-35%);
