@@ -3,74 +3,19 @@
 	<defs>
 		<style>.cls-1{font-size:37.41px;}.cls-1,.cls-13,.cls-27,.cls-29,.cls-36,.cls-6{fill:#fff;}.cls-1,.cls-36{font-family:Montserrat-Bold, Montserrat;}.cls-1,.cls-32,.cls-36,.cls-7{font-weight:700;}.cls-2{letter-spacing:0.01em;}.cls-3{letter-spacing:0em;}.cls-32,.cls-4,.cls-7{fill:#67bb50;}.cls-5{fill:#2f3273;}.cls-13,.cls-29,.cls-36,.cls-7{font-size:14px;}.cls-32,.cls-7{font-family:Montserrat-BoldItalic, Montserrat;font-style:italic;}.cls-8{letter-spacing:-0.01em;}.cls-9{letter-spacing:-0.01em;}.cls-10{letter-spacing:-0.02em;}.cls-11,.cls-43{letter-spacing:0em;}.cls-12{letter-spacing:0.01em;}.cls-13,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-43{font-family:Montserrat-Medium, Montserrat;font-weight:500;}.cls-14{letter-spacing:0em;}.cls-15{letter-spacing:-0.02em;}.cls-16{letter-spacing:-0.01em;}.cls-17{letter-spacing:0em;}.cls-18,.cls-40{letter-spacing:0em;}.cls-19,.cls-41{letter-spacing:-0.01em;}.cls-20,.cls-39{letter-spacing:0em;}.cls-21,.cls-42{letter-spacing:-0.01em;}.cls-22{letter-spacing:0.01em;}.cls-23{letter-spacing:-0.01em;}.cls-24{letter-spacing:-0.01em;}.cls-25{letter-spacing:-0.01em;}.cls-26{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px;}.cls-27{fill-rule:evenodd;}.cls-28{fill:#ffcc45;}.cls-29{font-family:Montserrat-SemiBold, Montserrat;font-weight:600;}.cls-30{letter-spacing:-0.07em;}.cls-31{letter-spacing:0.01em;}.cls-33{letter-spacing:-0.01em;}.cls-34{letter-spacing:-0.02em;}.cls-35{letter-spacing:-0.02em;}.cls-37{letter-spacing:-0.03em;}.cls-44{letter-spacing:0.08em;}.cls-45{letter-spacing:-0.01em;}.cls-46{letter-spacing:0em;}.cls-47{letter-spacing:-0.01em;}.cls-48{letter-spacing:0.01em;}.cls-49{letter-spacing:0em;}.cls-50{letter-spacing:-0.02em;}.cls-51{letter-spacing:-0.06em;}</style>
 	</defs>
-	<text class="cls-1" transform="translate(87.7 69.43)">Solution St
-		<tspan class="cls-2" x="213.96" y="0">a</tspan>
-		<tspan class="cls-3" x="237.27" y="0">c</tspan>
-		<tspan x="259.23" y="0">k</tspan>
+	<text class="cls-1" transform="translate(87.7 69.43)">Solution Stack
+
 	</text>
 	<polygon class="cls-4" points="40.29 61.44 48.92 70.06 69.29 70.06 69.29 49.83 60.65 41.07 40.29 41.07 40.29 61.44"/>
 	<polygon class="cls-5" points="43.12 60.23 50.05 67.16 66.43 67.16 66.43 50.9 59.48 43.85 43.12 43.85 43.12 60.23"/>
 	<polygon class="cls-6" points="49.2 56.77 58.07 56.77 58.07 59.14 46.1 59.14 46.1 46.89 58.31 46.89 61.33 49.93 49.2 49.93 49.2 56.77"/>
 	<polygon class="cls-6" points="60.36 54.47 51.48 54.47 51.48 52.07 63.49 52.07 63.49 64.38 51.22 64.38 48.19 61.34 60.36 61.34 60.36 54.47"/>
-	<text class="cls-7" transform="translate(904.38 482.46)">SMA
-		<tspan class="cls-8" x="33.03" y="0">R</tspan>
-		<tspan x="43.18" y="0">T SD </tspan>
-		<tspan class="cls-9" x="80.25" y="0">A</tspan>
-		<tspan x="90.83" y="0">u</tspan>
-		<tspan class="cls-10" x="100.45" y="0">t</tspan>
-		<tspan class="cls-11" x="106.3" y="0">o</tspan>
-		<tspan class="cls-12" x="115.46" y="0">m</tspan>
-		<tspan class="cls-11" x="130.23" y="0">ation</tspan>
+	<text class="cls-7" transform="translate(904.38 482.46)">SMART SD Automation
 	</text>
-	<text class="cls-13" transform="translate(904.27 503.28)">Desig
-		<tspan class="cls-14" x="40.71" y="0">n</tspan>
-		<tspan class="cls-11" x="50.29" y="0">ed </tspan>
-		<tspan class="cls-15" x="72.17" y="0">t</tspan>
-		<tspan x="77.71" y="0">o shift ope</tspan>
-		<tspan class="cls-16" x="152.33" y="0">r</tspan>
-		<tspan x="157.96" y="0">a</tspan>
-		<tspan class="cls-15" x="166.33" y="0">t</tspan>
-		<tspan x="171.88" y="0">o</tspan>
-		<tspan class="cls-17" x="180.77" y="0">r</tspan>
-		<tspan x="186.46" y="0">s</tspan>
-		<tspan class="cls-15" x="0" y="16.8">t</tspan>
-		<tspan x="5.54" y="16.8">o self </tspan>
-		<tspan class="cls-14" x="46.4" y="16.8">h</tspan>
-		<tspan class="cls-11" x="55.97" y="16.8">elp a</tspan>
-		<tspan class="cls-18" x="90.13" y="16.8">n</tspan>
-		<tspan x="99.71" y="16.8">d </tspan>
-		<tspan class="cls-15" x="113.02" y="16.8">t</tspan>
-		<tspan x="118.56" y="16.8">o </tspan>
-		<tspan class="cls-14" x="131.22" y="16.8">m</tspan>
-		<tspan class="cls-19" x="146.06" y="16.8">ov</tspan>
-		<tspan x="162.36" y="16.8">e in</tspan>
-		<tspan class="cls-15" x="188.13" y="16.8">t</tspan>
-		<tspan class="cls-20" x="193.67" y="16.8">o</tspan>
-		<tspan x="0" y="33.6">p</tspan>
-		<tspan class="cls-21" x="9.55" y="33.6">r</tspan>
-		<tspan class="cls-11" x="15.12" y="33.6">edi</tspan>
-		<tspan class="cls-22" x="37.14" y="33.6">c</tspan>
-		<tspan x="45.23" y="33.6">ti</tspan>
-		<tspan class="cls-19" x="54.94" y="33.6">v</tspan>
-		<tspan class="cls-11" x="62.55" y="33.6">e main</tspan>
-		<tspan class="cls-15" x="111.49" y="33.6">t</tspan>
-		<tspan x="117.04" y="33.6">ena</tspan>
-		<tspan class="cls-18" x="143.51" y="33.6">n</tspan>
-		<tspan class="cls-23" x="153.09" y="33.6">c</tspan>
-		<tspan x="160.97" y="33.6">e </tspan>
-		<tspan class="cls-16" x="173.3" y="33.6">f</tspan>
-		<tspan x="178.13" y="33.6">or</tspan>
-		<tspan x="0" y="50.4">be</tspan>
-		<tspan class="cls-24" x="18.12" y="50.4">t</tspan>
-		<tspan class="cls-15" x="23.73" y="50.4">t</tspan>
-		<tspan x="29.27" y="50.4">er </tspan>
-		<tspan class="cls-9" x="47.35" y="50.4">s</tspan>
-		<tspan class="cls-25" x="54.22" y="50.4">y</tspan>
-		<tspan x="61.95" y="50.4">s</tspan>
-		<tspan class="cls-15" x="68.96" y="50.4">t</tspan>
-		<tspan x="74.51" y="50.4">em upti</tspan>
-		<tspan class="cls-18" x="130.37" y="50.4">m</tspan>
-		<tspan x="145.21" y="50.4">e</tspan>
+	<text class="cls-13" transform="translate(904.27 503.28)">Designed to shift operators
+		<tspan class="cls-15" x="0" y="16.8">to self help and to move into</tspan>
+		<tspan x="0" y="33.6">predictive maintenance for</tspan>
+		<tspan x="0" y="50.4">better system uptime</tspan>
 	</text>
 	<line class="cls-26" x1="191.29" y1="552.18" x2="282.37" y2="552.18"/>
 	<rect class="cls-4" x="282.29" y="256.27" width="598" height="319.59" rx="20"/>
@@ -127,133 +72,43 @@
 	<path class="cls-5" d="M467.83,357a3.57,3.57,0,1,1-3.57-3.57,3.57,3.57,0,0,1,3.57,3.57h0"/>
 	<path class="cls-5" d="M467.83,448.41a3.57,3.57,0,1,1-3.57-3.57h0a3.67,3.67,0,0,1,3.57,3.57"/>
 	<path class="cls-5" d="M467.83,532.7a3.57,3.57,0,1,1-3.57-3.57h0a3.53,3.53,0,0,1,3.57,3.48h0"/>
-	<text class="cls-29" transform="translate(321.6 141.01)">I
-		<tspan class="cls-30" x="4.47" y="0">o</tspan>
-		<tspan x="12.45" y="0">T edge d</tspan>
-		<tspan class="cls-8" x="74.97" y="0">e</tspan>
-		<tspan x="83.54" y="0">vi</tspan>
-		<tspan class="cls-16" x="95.67" y="0">c</tspan>
-		<tspan x="103.7" y="0">e </tspan>
-		<tspan class="cls-16" x="116.27" y="0">r</tspan>
-		<tspan class="cls-20" x="122.04" y="0">aises sta</tspan>
-		<tspan class="cls-31" x="183.22" y="0">r</tspan>
-		<tspan x="189.31" y="0">t</tspan>
+	<text class="cls-29" transform="translate(321.6 141.01)">IoT edge device raises start
 	</text>
 	<text class="cls-29" transform="translate(321.71 195.53)">
-		<tspan class="cls-21">P</tspan>
-		<tspan x="10" y="0">ost </tspan>
-		<tspan class="cls-15" x="36.04" y="0">t</tspan>
-		<tspan x="41.72" y="0">o</tspan>
+		<tspan class="cls-21">Post to</tspan>
 		<tspan class="cls-32">
-			<tspan x="0" y="16.8">SMA</tspan>
-			<tspan class="cls-8" x="33.03" y="16.8">R</tspan>
-			<tspan x="43.18" y="16.8">T SD</tspan>
+			<tspan x="0" y="16.8">SMART SD</tspan>
 		</tspan>
 	</text>
 	<text class="cls-13" transform="translate(321.6 294.44)">
-		<tspan class="cls-33">C</tspan>
-		<tspan x="10.02" y="0">all </tspan>
-		<tspan class="cls-23" x="29.97" y="0">c</tspan>
-		<tspan class="cls-11" x="37.86" y="0">ent</tspan>
-		<tspan class="cls-21" x="61.75" y="0">r</tspan>
-		<tspan class="cls-11" x="67.33" y="0">e</tspan>
+		<tspan class="cls-33">Call centre</tspan>
 	</text>
 	<text class="cls-13" transform="translate(487.96 290.16)">
-		<tspan class="cls-8">F</tspan>
-		<tspan x="8.75" y="0">iles </tspan>
-		<tspan class="cls-21" x="35.91" y="0">r</tspan>
-		<tspan x="41.48" y="0">epo</tspan>
-		<tspan class="cls-31" x="68.49" y="0">r</tspan>
-		<tspan class="cls-15" x="74.44" y="0">t</tspan>
-		<tspan class="cls-11" x="79.98" y="0">ed a</tspan>
-		<tspan class="cls-14" x="110.23" y="0">n</tspan>
-		<tspan x="119.81" y="0">d</tspan>
-		<tspan x="0" y="16.8">sta</tspan>
-		<tspan class="cls-31" x="21.18" y="16.8">r</tspan>
-		<tspan x="27.13" y="16.8">ts ti</tspan>
-		<tspan class="cls-33" x="53.41" y="16.8">c</tspan>
-		<tspan class="cls-34" x="61.3" y="16.8">k</tspan>
-		<tspan x="69.62" y="16.8">et</tspan>
+		<tspan class="cls-8">Files reported and</tspan>
+		<tspan x="0" y="16.8">starts ticket</tspan>
 	</text>
-	<text class="cls-13" transform="translate(487.96 344.76)">Issues se
-		<tspan class="cls-31" x="62.78" y="0">r</tspan>
-		<tspan x="68.73" y="0">vi</tspan>
-		<tspan class="cls-23" x="80.46" y="0">c</tspan>
-		<tspan x="88.34" y="0">e o</tspan>
-		<tspan class="cls-21" x="109.56" y="0">r</tspan>
-		<tspan x="115.13" y="0">der</tspan>
-		<tspan x="0" y="16.8">a</tspan>
-		<tspan class="cls-14" x="8.37" y="16.8">n</tspan>
-		<tspan x="17.95" y="16.8">d assigns field</tspan>
-		<tspan x="0" y="33.6">e</tspan>
-		<tspan class="cls-18" x="8.57" y="33.6">n</tspan>
-		<tspan x="18.14" y="33.6">gi</tspan>
-		<tspan class="cls-18" x="31.71" y="33.6">n</tspan>
-		<tspan x="41.29" y="33.6">eer</tspan>
+	<text class="cls-13" transform="translate(487.96 344.76)">Issues service order
+		<tspan x="0" y="16.8">and assigns field</tspan>
+		<tspan x="0" y="33.6">engineer</tspan>
 	</text>
-	<text class="cls-13" transform="translate(487.96 444.36)">See
-		<tspan class="cls-35" x="25.83" y="0">k</tspan>
-		<tspan x="34.22" y="0">s </tspan>
-		<tspan class="cls-16" x="45" y="0">c</tspan>
-		<tspan class="cls-20" x="52.88" y="0">onfi</tspan>
-		<tspan class="cls-25" x="81.27" y="0">r</tspan>
-		<tspan x="86.91" y="0">mation</tspan>
-		<tspan class="cls-15" x="0" y="16.8">t</tspan>
-		<tspan x="5.54" y="16.8">o </tspan>
-		<tspan class="cls-25" x="18.2" y="16.8">c</tspan>
-		<tspan x="26.1" y="16.8">lose ti</tspan>
-		<tspan class="cls-33" x="67.94" y="16.8">c</tspan>
-		<tspan class="cls-34" x="75.84" y="16.8">k</tspan>
-		<tspan x="84.15" y="16.8">et</tspan>
+	<text class="cls-13" transform="translate(487.96 444.36)">Seeks confirmation
+		<tspan class="cls-15" x="0" y="16.8">to close ticket</tspan>
 	</text>
 	<text class="cls-36" transform="translate(487.96 532.76)">
-		<tspan class="cls-37">TA</tspan>
-		<tspan x="18.4" y="0">T</tspan>
+		<tspan class="cls-37">TAT</tspan>
 		<tspan class="cls-38" x="27.05" y="0" xml:space="preserve"> / </tspan>
-		<tspan class="cls-8" x="39.51" y="0">RT</tspan>
-		<tspan x="58.17" y="0">O</tspan>
-		<tspan class="cls-39" x="69.99" y="0"></tspan>
-		<tspan class="cls-40" x="73.75" y="0">m</tspan>
-		<tspan class="cls-41" x="88.59" y="0">e</tspan>
-		<tspan class="cls-38" x="96.95" y="0">asu</tspan>
-		<tspan class="cls-42" x="121.81" y="0">r</tspan>
-		<tspan class="cls-43" x="127.38" y="0">ed</tspan>
+		<tspan class="cls-8" x="39.51" y="0">RTO</tspan>
+		<tspan class="cls-40" x="73.75" y="0"> measured</tspan>
 		<tspan class="cls-38">
-			<tspan class="cls-14" x="0" y="16.8">a</tspan>
-			<tspan class="cls-11" x="8.41" y="16.8">gainst S</tspan>
-			<tspan class="cls-18" x="65.15" y="16.8">L</tspan>
-			<tspan x="73.51" y="16.8">A</tspan>
+			<tspan class="cls-14" x="0" y="16.8">against SLA</tspan>
 		</tspan>
 	</text>
-	<text class="cls-7" transform="translate(697.82 153.74)">Ale
-		<tspan class="cls-31" x="23.73" y="0">r</tspan>
-		<tspan x="29.97" y="0">ts </tspan>
-		<tspan class="cls-44" x="47.46" y="0">f</tspan>
-		<tspan class="cls-45" x="54" y="0">r</tspan>
-		<tspan x="59.91" y="0">om BOS/HOS</tspan>
+	<text class="cls-7" transform="translate(697.82 153.74)">Alerts from BOS/HOS
 	</text>
-	<text class="cls-13" transform="translate(745.51 379.36)">S
-		<tspan class="cls-46" x="8.69" y="0">p</tspan>
-		<tspan x="18.17" y="0">a</tspan>
-		<tspan class="cls-21" x="26.54" y="0">r</tspan>
-		<tspan x="32.12" y="0">es o</tspan>
-		<tspan class="cls-21" x="60.35" y="0">r</tspan>
-		<tspan x="65.93" y="0">der</tspan>
-		<tspan x="0" y="16.8">man</tspan>
-		<tspan class="cls-18" x="32.7" y="16.8">a</tspan>
-		<tspan x="41.12" y="16.8">ge</tspan>
-		<tspan class="cls-18" x="59.35" y="16.8">m</tspan>
-		<tspan x="74.19" y="16.8">ent</tspan>
-		<tspan x="0" y="33.6">tied </tspan>
-		<tspan class="cls-15" x="31.58" y="33.6">t</tspan>
-		<tspan x="37.13" y="33.6">o se</tspan>
-		<tspan class="cls-31" x="65.37" y="33.6">r</tspan>
-		<tspan class="cls-11" x="71.31" y="33.6">vi</tspan>
-		<tspan class="cls-23" x="83.05" y="33.6">c</tspan>
-		<tspan class="cls-11" x="90.93" y="33.6">e</tspan>
-		<tspan x="0" y="50.4">o</tspan>
-		<tspan class="cls-21" x="8.89" y="50.4">r</tspan>
-		<tspan x="14.46" y="50.4">der</tspan>
+	<text class="cls-13" transform="translate(745.51 379.36)">Spares order
+		<tspan x="0" y="16.8">management</tspan>
+		<tspan x="0" y="33.6">tied to service</tspan>
+		<tspan x="0" y="50.4">order</tspan>
 	</text>
 	<line class="cls-26" x1="656.63" y1="449.63" x2="682.02" y2="449.63"/>
 	<line class="cls-26" x1="681.39" y1="397.58" x2="726.45" y2="397.58"/>
@@ -263,51 +118,22 @@
 	<line class="cls-26" x1="641.37" y1="314.16" x2="919.29" y2="314.16"/>
 	<text class="cls-36" transform="translate(982.6 318.73)">FE App</text>
 	<text class="cls-36" transform="translate(1091.47 310.33)">
-		<tspan class="cls-47">F</tspan>
-		<tspan x="8.81" y="0">ield</tspan>
-		<tspan x="0" y="16.8">E</tspan>
-		<tspan class="cls-48" x="9.39" y="16.8">n</tspan>
-		<tspan class="cls-49" x="19.15" y="16.8">gi</tspan>
-		<tspan class="cls-48" x="33.17" y="16.8">n</tspan>
-		<tspan x="42.92" y="16.8">eer</tspan>
+		<tspan class="cls-47">Field</tspan>
+		<tspan x="0" y="16.8">Engineer</tspan>
 	</text>
-	<text class="cls-7" transform="translate(191.72 567.16)">St
-		<tspan class="cls-45" x="15.02" y="0">r</tspan>
-		<tspan class="cls-20" x="20.93" y="0">eam</tspan>
+	<text class="cls-7" transform="translate(191.72 567.16)">Stream
 	</text>
 	<text class="cls-36" transform="translate(77.52 489.11)">Client</text>
 	<text class="cls-13" transform="translate(145.2 482.94)">
-		<tspan class="cls-50">C</tspan>
-		<tspan x="9.81" y="0">omma</tspan>
-		<tspan class="cls-14" x="56.67" y="0">n</tspan>
-		<tspan x="66.25" y="0">d </tspan>
-		<tspan class="cls-50" x="79.56" y="0">C</tspan>
-		<tspan x="89.38" y="0">ent</tspan>
-		<tspan class="cls-21" x="113.27" y="0">r</tspan>
-		<tspan x="118.85" y="0">e</tspan>
-		<tspan x="0" y="16.8">Dashb</tspan>
-		<tspan class="cls-46" x="46.03" y="16.8">o</tspan>
-		<tspan x="54.85" y="16.8">a</tspan>
-		<tspan class="cls-21" x="63.22" y="16.8">r</tspan>
-		<tspan x="68.8" y="16.8">d</tspan>
+		<tspan class="cls-50">Command Centre</tspan>
+		<tspan x="0" y="16.8">Dashboard</tspan>
 	</text>
-	<text class="cls-7" transform="translate(146.71 202.11)">Ope
-		<tspan class="cls-45" x="30.27" y="0">r</tspan>
-		<tspan x="36.18" y="0">a</tspan>
-		<tspan class="cls-35" x="45.84" y="0">t</tspan>
-		<tspan x="51.69" y="0">or App</tspan>
+	<text class="cls-7" transform="translate(146.71 202.11)">Operator App
 	</text>
-	<text class="cls-7" transform="translate(93.25 294.61)">Ope
-		<tspan class="cls-45" x="30.27" y="0">r</tspan>
-		<tspan x="36.18" y="0">a</tspan>
-		<tspan class="cls-35" x="45.84" y="0">t</tspan>
-		<tspan x="51.69" y="0">or</tspan>
+	<text class="cls-7" transform="translate(93.25 294.61)">Operator
 	</text>
 	<text class="cls-7" transform="translate(202.25 294.61)">
-		<tspan class="cls-51">V</tspan>
-		<tspan x="9.67" y="0">oi</tspan>
-		<tspan class="cls-33" x="23.03" y="0">c</tspan>
-		<tspan x="31.21" y="0">e</tspan>
+		<tspan class="cls-51">Voice</tspan>
 	</text>
 	<line class="cls-26" x1="260.13" y1="290.66" x2="304.72" y2="290.66"/>
 </svg>
