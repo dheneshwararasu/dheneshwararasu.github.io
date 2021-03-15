@@ -1380,6 +1380,7 @@ body.y-scroll .q_smooth {
 }
 
 .font_caps {
+	width: max-content;
 	font-size: 11px;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -4814,18 +4815,19 @@ body.touch .sidescroll .sidescroll__wrap {
 }
 
 .q_slide .slides .slide .image-container .image-wrapper>div {
-	width: 105%;
+	width: 100%;
 	object-fit: cover;
-	height: 105%
+	height: 100%
 }
 
 .q_split {
 	display: block;
-	overflow: hidden
+	overflow: auto
 }
 
 .q_split_wrap {
-	display: block
+	display: block;
+	margin-left: 45vh;
 }
 
 
