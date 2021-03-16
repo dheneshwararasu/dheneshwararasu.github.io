@@ -1385,6 +1385,7 @@ body.y-scroll .q_smooth {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-weight: 400
+
 }
 
 .font_caps.fade {
@@ -4529,10 +4530,10 @@ body.touch .sidescroll .sidescroll__wrap {
 	display: none;
 	overflow: hidden;
 	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+	top: 20vh;
+	left: 20vh;
+	width: 80%;
+	height: 80%;
 	z-index: 1;
 	opacity: 0;
 	-webkit-transition: opacity 0.3s ease 1s;
